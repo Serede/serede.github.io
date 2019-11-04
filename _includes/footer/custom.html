@@ -1,12 +1,17 @@
 <!-- start custom footer snippets -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
 $(function () {
     // add `target="_blank"` to outgoing links.
     var host = document.location.host;
-    $("a[href]").each(function() {
-        var re = new RegExp(host, "g");
-        if ($(this).attr("href").match(/\/\//) && !$(this).attr("href").match(re)) {
-            $(this).attr("target", "_blank");
+    $('a[href]').each(function() {
+        var a = new RegExp('/' + host + '/');
+        if(!a.test(this.href)) {
+            $(this).click(function(event) {
+                event.preventDefault();
+                event.stopPropagation();
+                window.open(this.href, '_blank');
+            });
         }
     });
 });
