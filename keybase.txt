@@ -1,0 +1,54 @@
+https://keybase.io/serede
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://serede.github.io
+  * I am serede (https://keybase.io/serede) on keybase.
+  * I have a public key ASAkc_DOfSasLgkJkyhUyHTqg9rbVhOFz08KSQAL0cejgAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120340cafaf31efce920d240872b091dd5ef483d54212ac820cd26f08429f24c81a0a",
+      "host": "keybase.io",
+      "kid": "01202473f0ce7d26ac2e0909932854c874ea83dadb561385cf4f0a49000bd1c7a3800a",
+      "uid": "8aa58412ec9c4a46af8487ff13445519",
+      "username": "serede"
+    },
+    "merkle_root": {
+      "ctime": 1572875586,
+      "hash": "367ab72b4e162af19b38619e89bef35745363a31d7099eeaacb362e40ebe5cebee211f6d8b5b309f1bfa9f07f9875279dbdb82747556678de207d6676ffac200",
+      "hash_meta": "27bc63c29bc28eb2b3879b587d9df43e1d03f0d845c9164296b019718fdf48e3",
+      "seqno": 8706478
+    },
+    "service": {
+      "entropy": "tb6noOUUgz7fiiOYurkPfapy",
+      "hostname": "serede.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.1"
+  },
+  "ctime": 1572875599,
+  "expire_in": 504576000,
+  "prev": "7b8f2166a6c4d21bdb0dca629101d3ce7c9f8f2b1100525d0f7574b4af82ff4e",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJHPwzn0mrC4JCZMoVMh06oPa21YThc9PCkkAC9HHo4AKp3BheWxvYWTESpcCE8Qge48hZqbE0hvbDcpikQHTznyfjysRAFJdD3V0tK+C/07EIIpPKEBe/46P0+0lWVeltdJ6ISHKzj7UqizpNcNmJyhEAgHCo3NpZ8RAJI4xbJcp2OAt3oXWj1EmE+BTbX2x3kAnsIGW9c7vyEK7xhFdPm+RNpXkXLSaXMrLWAxUo8AJx5FOIawRGfPZB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIEX5n0mm4HPMyYEa/cbinI+ItxTUmzWbWDiSc5x97E/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/serede
+
