@@ -1,6 +1,6 @@
 {
-    "name": "Serede Sixty Six",
-    "short_name": "Serede Sixty Six",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/assets/images/icons/android-chrome-192x192.png",
@@ -14,7 +14,5 @@
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "start_url": "https://serede.github.io/",
-    "display": "standalone"
+    "background_color": "#ffffff"
 }

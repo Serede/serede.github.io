@@ -4,4 +4,3 @@ categories:
 ---
 
 General Kenobi!
-
